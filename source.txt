@@ -1,0 +1,12 @@
+If simply typing "pip install 'package-name'" in cmd doesn't work
+URL to get python packages from:
+http://www.lfd.uci.edu/~gohlke/pythonlibs/
+After downloading, cd to directory and type "pip install 'package-name'"
+
+URL for scikit-learn API:
+http://scikit-learn.org/stable/modules/classes.html
+
+URL for machine learning datasets:
+https://archive.ics.uci.edu/ml/datasets.html
+After choosing the dataset, navigate to the 'Data Folder' link and then choose the .data and .names file.
+The .names will have list of column names/feature names of the .data file. It also contains info about missing data
